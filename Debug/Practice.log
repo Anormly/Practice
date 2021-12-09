@@ -1,0 +1,6 @@
+﻿  functions.cpp
+C:\Users\Lero\source\repos\Practice\Practice\Practice\functions.cpp(390,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lero\source\repos\Practice\Practice\Practice\functions.cpp(395,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lero\source\repos\Practice\Practice\Practice\functions.cpp(400,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lero\source\repos\Practice\Practice\Practice\functions.cpp(405,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Practice.vcxproj -> C:\Users\Lero\source\repos\Practice\Practice\Debug\Practice.exe
